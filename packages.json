@@ -5,14 +5,14 @@
       "title" : "IVFarming Offical Server Pack",
       "name" : "modpack1",
       "version" : "2021-12-02-20-40-54",
-      "location" : "modpack1.json",
+      "location" : "https://croverindustries.github.io/launcher/modpack1.json",
       "priority" : 0
     },
     {
       "title" : "Vanilla 1.12.2",
       "name" : "Vanilla 1.12.2",
       "version" : "2021-12-02-20-48-17",
-      "location" : "vanilla-1.12.2.json",
+      "location" : "https://croverindustries.github.io/launcher/vanilla-1.12.2.json",
       "priority" : 0
     }
   ]
