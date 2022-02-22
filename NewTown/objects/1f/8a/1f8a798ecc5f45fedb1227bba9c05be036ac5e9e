@@ -1,0 +1,19 @@
+{
+    "internalName": "fb",
+    "defense": "0",
+    "durability": 500,
+    "armorTypes": 
+    {
+        "chest": 
+        {
+            "displayName": "Freddys Body"
+        }
+    },
+    "modelSkins":
+    [
+      {
+        "skinAsset": "fb",
+        "displayName": "Freddys Body"
+      }
+    ]
+}
