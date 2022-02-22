@@ -2,17 +2,10 @@
   "minimumVersion" : 1,
   "packages" : [
     {
-      "title" : "IVFarming Offical Server Pack",
-      "name" : "modpack1",
-      "version" : "2021-12-02-20-40-54",
-      "location" : "ivf/modpack1.json",
-      "priority" : 0
-    },
-    {
-      "title" : "Vanilla 1.12.2",
-      "name" : "Vanilla 1.12.2",
-      "version" : "2021-12-02-20-48-17",
-      "location" : "vanilla1.12.2/vanilla-1.12.2.json",
+      "title" : "NewTown Modpack",
+      "name" : "NewTown",
+      "version" : "1.0.0",
+      "location" : "NewTown/newtown.json",
       "priority" : 0
     }
   ]
